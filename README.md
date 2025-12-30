@@ -2,7 +2,9 @@
 **Author:** Taran Schlichtmann  
 **Date:** 09/14/2025  
 
-*Data cleaning, transformation, and visualization of garment manufacturing productivity using Python.*  
+*Data cleaning, transformation, and visualization of garment manufacturing productivity using Python.* 
+
+[[Open In Colab](https://colab.research.google.com/github/TaranSchlich/garment-productivity-analysis/blob/main/notebooks/garment_analysis.ip
 
 ---
 
