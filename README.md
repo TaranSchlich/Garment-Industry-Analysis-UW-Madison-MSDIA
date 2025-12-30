@@ -4,7 +4,7 @@
 
 *Data cleaning, transformation, and visualization of garment manufacturing productivity using Python.* 
 
-![Open In Colab](https://colab.research.google.comalysi)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HGK7QpxLramHYrEqmtE_9Ely8ix4t_vA?usp=sharing)
 
 ---
 
