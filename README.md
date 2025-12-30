@@ -15,6 +15,9 @@ This project analyzes garment manufacturing productivity data from January and F
 - **Feature Engineering**: Creating new metrics like `productivity_difference`
 - **Visualization**: Exploring relationships between incentive pay and productivity
 
+## Business Context
+This analysis focuses on improving productivity in garment manufacturing, where work is primarily manual and efficiency is critical for meeting production goals. The dataset reflects real-world challenges such as inconsistent entries and missing values, requiring thorough cleaning and transformation. Using Python and Pandas, this project prepares the data for actionable insights into team performance and operational efficiency.
+
 ---
 
 ## Features
